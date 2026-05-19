@@ -1,6 +1,6 @@
 ﻿namespace TASK_9.ModelExtensions
 {
-    public class Assignment
+    public partial class Assignment
     {
     }
 }
